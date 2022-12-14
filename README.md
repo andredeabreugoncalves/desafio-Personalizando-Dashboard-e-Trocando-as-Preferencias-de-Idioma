@@ -1,4 +1,4 @@
-#  Personalizando Dashboard e Trocando as Preferências de Idioma
+# Curso - DIO - Personalizando Dashboard e Trocando as Preferências de Idioma
 
 ![image](https://user-images.githubusercontent.com/70346444/207599916-84278b33-7b0a-40ea-ac82-b32cdc679c8b.png)
 
